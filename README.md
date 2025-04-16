@@ -5,6 +5,8 @@ Trimming padded lines in the classic editor
     Trimming padded lines in the classic editor
     Create a copy of the classic editor program in the clipbrd with trimmed lines.
 
+    Simpler solution:  go to TOOLS/OPTIONS/PROGRAM EDITOR/ (uncheck include blank space in clipboard)
+
     PROBLEM
     Copying and pasting classic editor paaded program lines into listservers and
     word documents causes lines to fold. It looks like double spacing.
